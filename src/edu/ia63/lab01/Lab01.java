@@ -38,5 +38,4 @@ public class Lab01 {
     }
 
 }
-(Math.pow(34))
 
