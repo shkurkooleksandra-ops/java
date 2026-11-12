@@ -1,7 +1,7 @@
-package lab03;
+package edu.ia63.lab03;
 
-import static lab03.Tools.*;
-import static lab03.Tools.matrixToString;
+import static edu.ia63.lab03.Tools.*;
+import static edu.ia63.lab03.Tools.matrixToString;
 
 public class Task25_1 {
 

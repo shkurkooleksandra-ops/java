@@ -1,9 +1,9 @@
-package lab03;
+package edu.ia63.lab03;
 
 import java.util.Objects;
 
 import static java.lang.Math.abs;
-import static lab03.Tools.*;
+import static edu.ia63.lab03.Tools.*;
 
 public class Task25 {
     static void main() {

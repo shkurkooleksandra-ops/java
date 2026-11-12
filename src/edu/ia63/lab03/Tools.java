@@ -1,4 +1,4 @@
-package lab03;
+package edu.ia63.lab03;
 
 import java.util.Random;
 

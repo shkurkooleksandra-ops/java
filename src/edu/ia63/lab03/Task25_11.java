@@ -1,6 +1,6 @@
-package lab03;
+package edu.ia63.lab03;
 
-import static lab03.Tools.*;
+import static edu.ia63.lab03.Tools.*;
 
 public class Task25_11 {
 
