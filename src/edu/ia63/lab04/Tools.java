@@ -18,7 +18,7 @@ public class Tools {
         return result;
     }
 
-    static byte[] generateRandomArray(int size, int min, int max) {
+    static byte[] generateRandomArray(int size) {
         Random rand = new Random();
         byte[] arr = new byte[size];
         rand.nextBytes(arr);

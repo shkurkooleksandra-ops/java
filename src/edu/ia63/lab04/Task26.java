@@ -9,9 +9,9 @@ public class Task26 {
         sort(s, null);
         sort(s, new byte[0]);
         sort(s, new byte[]{10});
-        byte[] x = generateRandomArray(5, Byte.MIN_VALUE, Byte.MAX_VALUE);
+        byte[] x = generateRandomArray(5);
         sort(s, x);
-        byte[] y = generateRandomArray(11, Byte.MIN_VALUE, Byte.MAX_VALUE);
+        byte[] y = generateRandomArray(11);
         sort(s, y);
     }
 
